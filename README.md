@@ -20,4 +20,4 @@ I've never really been a fan of the generic 'my subreddits' area on reddit, so I
 ![Desktop version](https://markshall.github.io/screenshots/EminemReddit/desktop.png)
 
 ## Mobile
-This design has very minimal mobile responsiveness due to it only being a time-passer, and reddit already having a mobile app. It may make it full responsive in the future.
+This design has very minimal mobile responsiveness due to it only being a time-passer, and reddit already having a mobile app. I may make it full responsive in the future.
