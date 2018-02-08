@@ -1,5 +1,5 @@
 # Design-EminemReddit
-[Preview link](https://sharefa.st/view/sLzlMGt0Z1k3)
+[Preview link](http://mark-eriksson.com/work/designs/EminemReddit/)
 
 My take on how r/Eminem should look
 
